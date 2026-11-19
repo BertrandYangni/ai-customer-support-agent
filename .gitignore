@@ -221,3 +221,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets and local files
+.env
+.venv/
+node_modules/
+credentials.json
+client_secret*.json
+token.json
+*.pem
+
+# Secrets and local files
+.env
+.venv/
+node_modules/
+credentials.json
+client_secret*.json
+token.json
+*.pem
