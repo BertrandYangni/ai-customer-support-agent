@@ -1,11 +1,5 @@
 # AI Customer Support Agent
 
-My follow-along build of the **AI Engineering Full Course - Build and Deploy a Real AI App** by Dave (Datalumina).
-
-- Video: https://www.youtube.com/watch?v=XzjSx7u9mGw
-- Course handbook: https://learn.datalumina.com/docs/customer-support-automation
-- Prerequisite (Python basics): https://www.youtube.com/watch?v=ygXn5nV5qFc
-
 > This is a learning project. All credit for the course design goes to the original author.
 
 ## What it does
@@ -23,23 +17,6 @@ An AI customer support agent that connects to a Gmail inbox, reads incoming emai
 | Testing | Evals |
 | Admin dashboard | React |
 | Deployment | Docker on a Hostinger VPS |
-
-## Course progress
-
-- [ ] Introduction (0:00)
-- [ ] Project setup (6:57)
-- [ ] Gmail API access (20:37)
-- [ ] Gmail client (36:23)
-- [ ] The poller (45:27)
-- [ ] Database (53:48)
-- [ ] First reply (1:10:36)
-- [ ] Knowledge base (1:18:14)
-- [ ] AI pipeline (1:23:21)
-- [ ] Evals (1:55:31)
-- [ ] Server setup (2:08:41)
-- [ ] Deploy with Docker (2:23:41)
-- [ ] Admin dashboard (2:44:54)
-- [ ] Wrap up (3:05:19)
 
 ## Project structure
 
